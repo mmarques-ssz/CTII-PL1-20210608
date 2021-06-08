@@ -1,0 +1,33 @@
+Disponível em:
+https://replit.com/join/nnmyhinyxb-mmarquesssz
+
+=====================================================================
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Exemplo 2</title>
+    
+  </head>
+  <body>
+    <table border="0">
+      <tr height="100"> 
+        <td width="100" bgcolor="red" align="left"><font color="white">col 1</font></td>
+        <td width="400" bgcolor="yellow" align="center">col 2</td>
+        <td width="100" bgcolor="red" align="right">col 3</td>
+      <tr>
+      <tr height="100"> 
+        <td width="100" bgcolor="yellow" align="left">col 1</td>
+        <td width="400" align="center"><img src="canjica.jpg" width="70" height="70"></td>
+        <td width="100" bgcolor="yellow" align="right">col 3</td>
+      <tr>
+      <tr height="100"> 
+        <td width="100" bgcolor="red" align="left"><font color="white">col 1</font></td>
+        <td width="400" bgcolor="yellow" align="center">col 2</td>
+        <td width="100" bgcolor="red" align="right">col 3</td>
+      <tr>
+      </table>
+  </body>
+</html>

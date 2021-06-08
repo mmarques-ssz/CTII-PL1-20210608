@@ -1,0 +1,67 @@
+Disponível em:
+https://replit.com/join/zbyksxyczs-mmarquesssz
+
+=====================================================================
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Exemplo 3</title>
+    
+  </head>
+  <body>
+    <table border="0" width="600">
+      <tr bgcolor="#c0c0c0">
+        <td align="center" align="center" colspan="3">*</td align="center" align="center">
+        <td align="center" align="center" colspan="3">*</td align="center" align="center">
+      </tr>
+      <tr bgcolor="#c0c0c0">
+        <td align="center" align="center" colspan="2">*</td align="center" align="center">
+        <td align="center" align="center" colspan="2">*</td align="center" align="center">
+        <td align="center" align="center" colspan="2">*</td align="center" align="center">
+      </tr>
+      <tr bgcolor="#c0c0c0">
+        <td align="center" align="center">*</td align="center" align="center">
+        <td align="center" align="center" colspan="2">*</td align="center" align="center">
+        <td align="center" align="center" colspan="2">*</td align="center" align="center">
+        <td align="center" align="center">*</td align="center" align="center">
+      </tr>
+      <tr>
+        <td align="center" align="center"></td align="center" align="center">
+        <td align="center" align="center"></td align="center" align="center">
+        <td align="center" align="center"></td align="center" align="center">
+        <td align="center" align="center"></td align="center" align="center">
+        <td align="center" align="center"></td align="center" align="center">
+        <td align="center" align="center"></td align="center" align="center">
+      </tr>
+    </table>
+
+
+    <center>
+    <font face="arial" color="white">
+    <table>
+      <tr height="25">
+        <td align="center" width="25" bgcolor="green" rowspan="2">1</td align="center">
+        <td align="center" width="25" bgcolor="blue" colspan="2">2</td align="center">
+      </tr>
+      <tr height="25">
+        <td align="center" width="25" bgcolor="yellow"><font color="white">
+
+          <table border="0">
+            <tr><td bgcolor="red">3,1</td><td bgcolor="cyan">3,2</td></tr>
+            <tr><td bgcolor="cyan">3,3</td><td bgcolor="red">3,4</td></tr>
+          </table>
+          
+          </font></td align="center">
+        <td align="center" width="25" bgcolor="green" rowspan="2">4</td align="center">
+      </tr>
+      <tr height="25">
+        <td align="center" width="25" bgcolor="blue" colspan="2">5</td align="center">
+      </tr>
+    </table>
+    </font>
+    </center>
+  </body>
+</html>

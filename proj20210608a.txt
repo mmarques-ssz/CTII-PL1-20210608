@@ -1,0 +1,33 @@
+Disponível em:
+https://replit.com/join/imlnqnnirh-mmarquesssz
+
+=====================================================================
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Exemplo 1</title>
+  
+  </head>
+  <body>
+      <table border="1">
+        <tr height="150"> 
+          <td width="150">AAA</td>
+          <td width="400">BBBBBBB</td>
+          <td width="300">CCCC</td>
+        </tr>
+        <tr> 
+          <td>DDDDD</td>
+          <td>EEEEEEEEEEEEEEEEE</td>
+          <td>FF</td>
+        </tr>
+        <tr> 
+          <td>G</td>
+          <td>H</td>
+          <td>IIIIIIIIIIIIIIIIIIIII</td>
+        </tr>
+      </table>
+  </body>
+</html>
